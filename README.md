@@ -1,2 +1,2 @@
-# jMeter-Performance
-This project is to focus on jMeter Performance testing.
+# WebdriverIO + Appium
+This project is to focus on Mobile automation testing WebdriverIO + Appium
